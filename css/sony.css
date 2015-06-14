@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.espacio{height:auto; width:auto}
+.fondosony{ background:rgba(255,255,255,1.00) }
+.imgsony{ float:left; width:200px; height:250px; margin-left:5px}
+.txtsony{ float: none ; width:auto; margin: 1%; height:350px}
+.icono{ float:LEFT; width:150px; height:175PX }
+.iconoder{ float:right; width:150px; height:175px}
+.precio{ float:left; height:250px; width:260px; font-size:36px; margin-left:5px}
+.fondosamsung{background:rgba(255,255,255,1.00)}
